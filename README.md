@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📝 I regularly write articles on [Cyber security, redteaming, programming](Cyber security, redteaming, programming)
+- 📝 I regularly write articles on Cyber security🕵️, redteaming🌶️, programming🤖
 
 <p align="left">
 </p>
